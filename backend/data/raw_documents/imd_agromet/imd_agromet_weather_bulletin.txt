@@ -1,0 +1,13 @@
+[Document ID: IMD-AGROMET-01]
+Source: India Meteorological Department (IMD) - Gramin Krishi Mausam Sewa
+Category: Weather-Based Agromet Advisory
+Regions: Central & Western India (Maharashtra, Gujarat, MP)
+
+Weather-Linked Farming Guidance:
+1. Spray Timing & Rainfall:
+   - Do NOT apply pesticide or foliar fertilizer sprays if rainfall is forecasted within the next 24 to 48 hours, as rain washes away active ingredients.
+   - Ideal spraying conditions: Clear sky, calm winds (wind speed < 10 km/h), relative humidity between 50-70%.
+2. High Temperature / Heatwave:
+   - In case of daytime temperatures exceeding 38°C, apply light and frequent irrigations during evening or early morning hours. Avoid midday irrigation to prevent root scalding.
+3. Frost Management (Winter / Rabi Season):
+   - In Northern and Central plains when night temperature drops below 4°C, provide light irrigation or create smoke mulch (fumigation) at field borders to protect potato, mustard, and young wheat crops from frost damage.

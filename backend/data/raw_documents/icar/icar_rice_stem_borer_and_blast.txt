@@ -1,0 +1,19 @@
+Title: ICAR-NRRI Rice Stem Borer and Blast Advisory
+Source: ICAR-National Rice Research Institute (NRRI), Cuttack
+Crop: Rice / Paddy (धान / भात / तांदूळ)
+Category: Pest and Disease Management
+Pest & Disease: Yellow Stem Borer (Scirpophaga incertulas) and Leaf / Neck Blast (Magnaporthe oryzae)
+Regions: Pan-India (Punjab, West Bengal, Andhra Pradesh, Telangana, Tamil Nadu, Maharashtra)
+
+Symptoms:
+- Stem Borer: "Dead Heart" during vegetative tillering stage (central shoot dries and pulls out easily) and "White Earhead" during panicle emergence (chaffy, white empty panicles).
+- Rice Blast: Spindle-shaped/diamond-shaped lesions with brown borders and grey centers on leaves; blackening of neck nodes causing lodging.
+
+Control Measures & Dosages:
+1. Stem Borer:
+   - Cartap Hydrochloride 4G granules @ 7.5 kg per acre applied into standing water (2-3 cm water level).
+   - OR Chlorantraniliprole 0.4% G @ 4 kg per acre.
+   - Foliar Spray: Chlorantraniliprole 18.5% SC @ 0.3 ml per liter of water (60 ml per acre).
+2. Rice Blast:
+   - Tricyclazole 75% WP @ 0.6 gram per liter of water (120 grams in 200 liters of water per acre).
+   - Apply at boot leaf stage and repeat at 5% panicle emergence if conditions remain misty/humid.

@@ -1,0 +1,16 @@
+[Document ID: CIBRC-SAFETY-01]
+Source: Central Insecticides Board & Registration Committee (CIBRC) & ICAR Safety Guidelines
+Category: Pesticide Safety & Dosage Rules
+
+Mandatory Pesticide Safety Rules for Farmers:
+1. Dosage Integrity:
+   - Always adhere to label recommendations approved by CIBRC. Under-dosing causes pest resistance; overdosing causes phytotoxicity and environmental contamination.
+   - If an approved dosage is not known or verified, consult the nearest Krishi Vigyan Kendra (KVK) or Block Agricultural Officer before application.
+2. Mixing & Handling:
+   - Never use bare hands or mouth to open bottles or stir chemical solutions. Use a dedicated stick.
+   - Do not mix incompatible agrochemicals (e.g. fungicides containing copper with organophosphates).
+3. Personal Protective Equipment (PPE):
+   - Always wear rubber gloves, face mask/respirator, and long-sleeved clothing during preparation and spraying.
+   - Do not eat, drink, or chew tobacco during pesticide application.
+4. Disposal & Empty Containers:
+   - Triple rinse empty containers with water, pour rinse back into the spray tank, puncture container so it cannot be reused for food/water storage, and bury in a safe disposal pit far from water bodies.

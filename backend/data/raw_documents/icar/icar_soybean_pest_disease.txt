@@ -1,0 +1,21 @@
+Title: ICAR-IISR Soybean Girdle Beetle and Semilooper Advisory
+Source: ICAR-Indian Institute of Soybean Research (IISR), Indore
+Crop: Soybean (सोयाबीन)
+Category: Pest and Disease Management
+Pests: Girdle Beetle (Obereopsis brevis / खोडकिडा / चक्री भुंगा) and Tobacco Caterpillar / Green Semilooper (Spodoptera litura)
+Regions: Central India (Madhya Pradesh, Maharashtra, Rajasthan)
+
+Symptoms:
+- Girdle Beetle: Adult females make two ring-like cuts (girdles) on the petiole or main stem. The portion above the cut withers, dries, and drops off.
+- Semilooper & Caterpillars: Larvae feed vigorously on leaves, leaving only veins intact (skeletonized leaves).
+
+Management & Chemical Controls:
+- For Girdle Beetle & Stem Borer:
+  - Thiamethoxam 12.6% + Lambda-cyhalothrin 9.5% ZC @ 0.25 ml per liter of water (50 ml in 200 L water per acre).
+  - OR Chlorantraniliprole 18.5% SC @ 0.3 ml per liter of water (60 ml per acre).
+- For Defoliators / Semiloopers:
+  - Emamectin Benzoate 5% SG @ 0.4 gram per liter of water (80 grams per acre).
+  - Spray when morning dew has evaporated.
+
+Safety Notice:
+- Avoid spraying during active honeybee foraging hours (early morning).

@@ -1,0 +1,28 @@
+Title: ICAR-IIWBR Wheat Rust & Irrigation Advisory
+Source: ICAR-Indian Institute of Wheat and Barley Research (IIWBR), Karnal
+Crop: Wheat (गेहूं / गहू)
+Category: Disease and Irrigation Management
+Disease: Yellow / Stripe Rust (Puccinia striiformis) and Brown Rust (Puccinia triticina)
+Regions: North-Western & Central Plains (Punjab, Haryana, UP, Rajasthan, MP)
+
+Rust Disease Symptoms:
+- Yellow Rust: Yellow pustules arranged in linear stripes parallel to leaf veins, releasing powdery spores when touched.
+- Brown Rust: Round to oval brownish-orange pustules scattered randomly over leaf surface.
+
+Rust Chemical Control (Approved Dosages):
+- Spray Propiconazole 25% EC @ 1.0 ml per liter of water (200 ml in 200 liters of water per acre).
+- OR Tebuconazole 25.9% EC @ 1.0 ml per liter of water (200 ml per acre).
+- Repeat spray after 15 days if cloudy/humid weather persists.
+
+Critical Wheat Irrigation Calendar (6 Stage Plan):
+1. Crown Root Initiation (CRI) - 20-25 days after sowing (Most critical: delay causes yield drops of 25-30%).
+2. Tillering Stage - 40-45 days after sowing.
+3. Late Jointing Stage - 60-65 days after sowing.
+4. Flowering Stage - 80-85 days after sowing.
+5. Milk Stage - 100-105 days after sowing.
+6. Dough Stage - 115-120 days after sowing.
+
+Fertilizer Recommendation:
+- Basal: 50 kg Urea, 75 kg DAP, 25 kg MOP per acre.
+- First Top Dressing: 25 kg Urea at CRI stage before 1st irrigation.
+- Second Top Dressing: 25 kg Urea at Tillering stage before 2nd irrigation.

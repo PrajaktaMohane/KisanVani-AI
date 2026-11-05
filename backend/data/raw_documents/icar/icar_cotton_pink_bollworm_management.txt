@@ -1,0 +1,31 @@
+Title: ICAR-CICR Cotton Pink Bollworm Comprehensive Integrated Management Guide
+Source: ICAR-Central Institute for Cotton Research (CICR), Nagpur
+Crop: Cotton (कपास / कापूस)
+Category: Pest and Disease
+Pest: Pink Bollworm (Pectinophora gossypiella / गुलाबी बोंड अळी / गुलाबी सुंडी)
+Agro-climatic Zones: Central & Southern Cotton Growing Zones (Maharashtra, Gujarat, Telangana, Karnataka)
+
+Symptoms & Identification:
+- Rosetted flowers in early flowering stage (35-60 DAS).
+- Entrance holes on green bolls that heal and become invisible from outside.
+- Internal seed feeding and stained lint, causing premature boll rot and shedding.
+
+Economic Threshold Level (ETL):
+- 8 moths/trap/night for 3 consecutive nights OR 10% damaged green bolls (with live larvae) in random sample of 20 bolls.
+
+Management Protocol:
+1. Monitoring & Mass Trapping:
+   - Install 5 to 8 pheromone traps per acre at 45 days after sowing with Gossyplure septa. Change lure every 21 days.
+2. Biological & Neem Formulations (Early Stage):
+   - Spray Neem Oil / NSKE (Neem Seed Kernel Extract) 5% OR Azadirachtin 1500 ppm @ 5 ml per liter of water (1 Liter in 200 L water/acre).
+   - Release Trichogramma bactrae egg parasitoid @ 60,000 per acre, 3 times at 7-10 day intervals.
+3. Chemical Interventions (Strictly when ETL is crossed):
+   - Profenofos 50% EC: 2.0 ml per liter of water (400 ml in 200 liters water per acre).
+   - Emamectin Benzoate 5% SG: 0.5 gram per liter of water (100 grams in 200 liters water per acre).
+   - Chlorantraniliprole 18.5% SC: 0.3 ml per liter of water (60 ml in 200 liters water per acre).
+   - Spinetoram 11.7% SC: 0.8 ml per liter of water (160 ml per acre).
+
+Safety Rules:
+- Never mix two organophosphate insecticides.
+- Wear protective apron, rubber gloves, and carbon face mask.
+- Wash hands thoroughly with soap after handling.

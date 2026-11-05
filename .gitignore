@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Secret files
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Local databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
+.idea/
+data/audio/
